@@ -16,9 +16,9 @@ let etapas = [
                 ]
             },
             {
-                numero: '17',
+                numero: '22',
                 nome: 'Jair Messias Bolsonaro',
-                partido: 'PSL',
+                partido: 'PL',
                 vice: 'General Mourão',
                 fotos: [
                     {url: '5.jpg', legenda: 'Presidente'},
