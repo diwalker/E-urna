@@ -8,7 +8,7 @@ let etapas = [
                 numero: '13',
                 nome: 'Luis Inácio Lula da Silva',
                 partido: 'PT',
-                vice: 'Haddad',
+                vice: 'Geraldo Alckmin',
                 fotos: [
                     {url: '3.jpg', legenda: 'Presidente'},
                     {url: '4.jpg', legenda: 'Vice', small: true}
@@ -19,7 +19,7 @@ let etapas = [
                 numero: '22',
                 nome: 'Jair Messias Bolsonaro',
                 partido: 'PL',
-                vice: 'General Mourão',
+                vice: 'Walter Braga Netto',
                 fotos: [
                     {url: '5.jpg', legenda: 'Presidente'},
                     {url: '6.jpg', legenda: 'Vice', small: true}
