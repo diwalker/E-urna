@@ -5,7 +5,7 @@ let etapas = [
         numeros: 2,
         candidatos: [
             {
-                numero: '13',
+                numero: '22',
                 nome: 'Luis Inácio Lula da Silva',
                 partido: 'PT',
                 vice: 'Geraldo Alckmin',
@@ -16,7 +16,7 @@ let etapas = [
                 ]
             },
             {
-                numero: '22',
+                numero: '13',
                 nome: 'Jair Messias Bolsonaro',
                 partido: 'PL',
                 vice: 'Walter Braga Netto',
